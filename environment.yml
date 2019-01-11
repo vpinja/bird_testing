@@ -3,7 +3,7 @@ channels:
 dependencies:
   - appmode
   - ipywidgets
-  - nbinteract
+  - nbconvert
   - numpy
   - matplotlib
   - pandas
