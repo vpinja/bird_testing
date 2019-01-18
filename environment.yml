@@ -4,6 +4,7 @@ dependencies:
   - appmode
   - ipywidgets
   - nbconvert
+  - jupyter_contrib_nbextensions
   - numpy
   - matplotlib
   - pandas
